@@ -1,0 +1,17 @@
+# Site settings
+title: WHDD
+# email:
+description: "HDD diagnostic and data recovery tool for Linux"
+baseurl: ""
+url: "https://whdd.github.io"
+github_username:  whdd
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+
+paginate: 5
+
+gems:
+  - jekyll-sitemap
