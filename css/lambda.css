@@ -219,7 +219,6 @@ table th {
 }
 .article-backlink a {
     display: inline-block;
-    background: url(../img/back.gif) no-repeat left center;
     height: 24px;
     line-height: 23px;
     padding-left: 32px;
